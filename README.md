@@ -1,3 +1,7 @@
+![Generic badge](https://img.shields.io/badge/Status-In%20Progress%20-yellow)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Maintainer](https://img.shields.io/badge/maintainer-Ross--Humphrey-blue)
+
 OneLogin Tool - onelogin-python-aws-assume-role
 ===============================
 
